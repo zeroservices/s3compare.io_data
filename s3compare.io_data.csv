@@ -13,5 +13,6 @@ Linode,Object Storage,20.00 USD,General Purpose,3,grey,0.00 USD,10.00 USD,0.05 U
 OVH,Public Cloud Storage,17.50 USD,General Purpose,3,grey,0.00 USD,8.75 USD,0.0077 USD,0.0077 USD,FR; DE; GB; PL; CA; SG; AU,0 days,99.9%,1 byte
 Oracle Cloud,Object Storage,23.40 USD,General Purpose,3,grey,0.00 USD,8.70 USD,0.0045 USD,0.0004 USD,US; CA; BR; GB; DE; NL; CH; SE; AE; SA; IN; JP; KR; SG; AU,0 days,99.9%,1 byte
 Scaleway,Object Storage,21.60 USD,General Purpose,3,grey,0.00 USD,24.00 USD,0.012 USD,0.012 USD,FR; NL; PL,0 days,99.95%,1 byte
+Tebi,Pay-As-You-Go,20.00 USD,Backup/Archive/Media Serving,3,grey,0.00 USD,10.00 USD,0.00 USD,0.00 USD,DE; US; SG,0 days,Not specified,1 byte
 Vultr,Object Storage,6.00 USD,General Purpose,4,grey,0.00 USD,10.00 USD,0.01 USD,0.01 USD,US; NL; SG,0 days,99.9%,1 byte
 Wasabi,Hot Cloud Storage,6.99 USD,Backup/Archive/Media Serving,3,red,0.00 USD,0.00 USD,0.00 USD,0.00 USD,US; CA; NL; FR; DE; GB; IE; JP; AU; SG,90 days,99.99%,1 TB
