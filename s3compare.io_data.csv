@@ -8,7 +8,7 @@ OVH,Public Cloud Storage,17.50 USD,General Purpose,3,grey,0.00 USD,8.75 USD,0.00
 Hetzner,Storage Box,4.27 USD,Backup/Archive/Media Serving,0,grey,0.00 USD,0.00 USD,Not specified,Not specified,DE; FI; US,0 days,Not specified,1 TB
 Backblaze,B2 Cloud Storage,6.00 USD,Backup/Archive/Media Serving,4,grey,0.00 USD,10.00 USD,0.004 USD,0.001 USD,US; NL; DE,0 days,99.9%,1 byte
 DigitalOcean,Spaces,20.00 USD,Backup/Archive/Media Serving,3,grey,0.00 USD,10.00 USD,0.05 USD,0.01 USD,Multiple,0 days,99.99%,1 byte
-Vultr,Object Storage,6.00 USD,General Purpose,4,grey,0.00 USD,10.00 USD,0.01 USD,0.01 USD,US; NL; SG,0 days,99.9%,1 byte
+Vultr,Object Storage,6.00 USD,General Purpose,4,grey,0.00 USD,10.00 USD,0.01 USD,0.01 USD,US; NL; SG,0 days,99.9%,1 TB
 Linode,Object Storage,20.00 USD,General Purpose,3,grey,0.00 USD,10.00 USD,0.05 USD,0.004 USD,Multiple,0 days,99.9%,1 byte
 Scaleway,Object Storage,21.60 USD,General Purpose,3,grey,0.00 USD,24.00 USD,0.012 USD,0.012 USD,FR; NL; PL,0 days,99.95%,1 byte
 IBM Cloud,Object Storage,21.00 USD,General Purpose,2,grey,0.00 USD,90.00 USD,0.10 USD,0.01 USD,Multiple,0 days,99.9%,1 byte
