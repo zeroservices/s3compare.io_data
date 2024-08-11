@@ -1,4 +1,4 @@
-Provider,Product,$/TB/Mo,Best for,Price Rating,Fair Use,In/TB,Out/TB,Free Egress Multiplier,$/1K Write,$/1K Read,Regions,Term,SLA,Steps
+Provider,Product,$/TB/Mo,Best for,Price Rating,Fair Use,In/TB,Out/TB,Multiplier,$/1K Write,$/1K Read,Regions,Term,SLA,Steps
 AWS,S3 Standard,23.00 USD,General Purpose,2,grey,0.00 USD,90.00 USD,0,0.005 USD,0.0004 USD,Multiple,0 days,99.99%,1 byte
 AWS,S3 Glacier Instant Retrieval,4.00 USD,Backup/Archive/Media Serving,3,grey,0.00 USD,90.00 USD,0,0.10 USD,0.01 USD,Multiple,90 days,99.99%,1 byte
 Azure,Blob Storage (Hot),20.48 USD,General Purpose,2,grey,0.00 USD,87.00 USD,0,0.054 USD,0.0043 USD,Multiple,0 days,99.99%,1 byte
