@@ -6,7 +6,7 @@ Google Cloud,Cloud Storage Standard,20.00 USD,General Purpose,2,grey,0.00 USD,12
 Wasabi,Hot Cloud Storage,6.99 USD,Backup/Archive/Media Serving,3,red,0.00 USD,0.00 USD,0,0.00 USD,0.00 USD,Multiple,90 days,99.99%,1 TB
 OVH,Public Cloud Storage,17.50 USD,General Purpose,3,grey,0.00 USD,8.75 USD,0,0.0077 USD,0.0077 USD,Multiple,0 days,99.9%,1 byte
 Hetzner,Storage Box,4.27 USD,Backup/Archive/Media Serving,0,grey,0.00 USD,0.00 USD,0,Not specified,Not specified,DE; FI; US,0 days,Not specified,1 TB
-Backblaze,B2 Cloud Storage,6.00 USD,Backup/Archive/Media Serving,4,grey,0.00 USD,10.00 USD,3,0.004 USD,0.001 USD,US; NL,0 days,99.9%,1 byte
+Backblaze,B2 Cloud Storage,6.00 USD,Backup/Archive/Media Serving,4,grey,0.00 USD,10.00 USD,3,0.004 USD,0.001 USD,US; NL,30 days,99.9%,1 byte
 DigitalOcean,Spaces,20.00 USD,Backup/Archive/Media Serving,3,grey,0.00 USD,10.00 USD,0,0.05 USD,0.01 USD,Multiple,0 days,99.99%,1 byte
 Vultr,Object Storage,6.00 USD,General Purpose,4,grey,0.00 USD,10.00 USD,0,0.01 USD,0.01 USD,US; NL; SG,0 days,99.9%,1 TB
 Linode,Object Storage,20.00 USD,General Purpose,3,grey,0.00 USD,10.00 USD,0,0.05 USD,0.004 USD,Multiple,0 days,99.9%,1 byte
