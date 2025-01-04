@@ -17,5 +17,5 @@ Oracle Cloud,Object Storage,23.40 USD,General Purpose,3,grey,0.00 USD,8.70 USD,0
 Cloudflare,R2,15.00 USD,Backup/Archive/Media Serving,4,red,0.00 USD,0.00 USD,0,0.0045 USD,0.00036 USD,AE; AR; AT; AU; BA; BE; BG; BR; CA; CH; CL; CN; CO; CZ; DE; DK; EE; ES; FI; FR; GB; GR; HK; HR; HU; ID; IE; IL; IN; IT; JP; KE; KR; LT; LV; MD; MX; MY; NL; NO; NZ; PE; PH; PL; PT; RO; RS; SE; SG; SI; SK; TH; TR; TW; UA; US; VN; ZA,0 days,99.99%,1 byte,https://www.cloudflare.com/products/r2/
 Rabata.io,S3,15.00 USD,Backup/Archive/Media Serving,4,grey,0.00 USD,15.00 USD,0,0.00 USD,0.00 USD,FI,30 days,99.99%,1 GB,https://www.rabata.io/#pricing
 Hetzner,Object Storage,5.49 USD,Backup/Archive/Media Serving,5,grey,0.00 USD,1.10 USD,1,0.00 USD,0.00 USD,DE; FI,0 days,99.9%,1 TB,https://www.hetzner.com/de/storage/object-storage/
-Contabo,Object Storage,10.96 USD,Backup/Archive/Media Serving,3,red,0.00 USD,0.00 USD,0,0.00 USD,0.00 USD,US; GB; DE; IN; SG; JP; AU,30 days,99.9%,250 GB,https://contabo.com/en/object-storage/
+Contabo,Object Storage,10.96 USD,Backup/Archive/Media Serving,3,red,0.00 USD,0.00 USD,0,0.00 USD,0.00 USD,US; GB; DE; IN; SG; JP; AU,30 days,95.0%,250 GB,https://contabo.com/en/object-storage/
 Storj,Distributed Storage,4.00 USD,Backup/Archive/Media Serving,4,grey,0.00 USD,7.00 USD,0,0.0088 USD,0.00 USD,US; DE; SG; JP,0 days,99.95%,1 byte,https://www.storj.io/pricing/
