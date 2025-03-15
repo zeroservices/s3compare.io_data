@@ -1,6 +1,0 @@
-provider,versioning,obj_lock,encryption,multipart,web_host,cors,lifecycle,obj_tags,get_100mb,put_100mb,get_4000mb,get_ops,put_ops,list_ops,del_ops
-ZERO-S3 (SATA),False,False,False,True,False,False,False,False,2796.16,1484.00,1501.52,518.32,317.36,3921.59,1079.27
-Hetzner Object Storage,False,False,False,True,False,False,False,False,7321.76,1665.52,7390.24,191.06,84.88,192908.61,760.09
-Contabo Object Storage,False,False,False,True,False,False,False,False,5960.48,2387.12,6514.08,102.26,153.20,177314.59,1086.99
-Wasabi Object Storage,True,False,True,True,False,False,False,True,4909.12,2524.80,5373.12,435.10,125.25,71584.93,299.80
-Storj,False,False,False,True,False,True,False,False,4957.20,3774.56,4921.60,999.14,176.96,177.80,1964.90
